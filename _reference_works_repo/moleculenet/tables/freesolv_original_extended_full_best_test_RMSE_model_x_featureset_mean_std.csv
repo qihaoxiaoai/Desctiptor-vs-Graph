@@ -1,0 +1,6 @@
+Model,Feature set,mean,std
+xgb,RDKit,0.92,0.19
+rf,RDKit,1.12,0.12
+gp,1024ecfp-6 + RDKit,1.28,0.16
+krr,RDKit,1.9,0.35
+gpflow,2048ecfp-4,2.02,0.27
